@@ -1,0 +1,13 @@
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\bin\Debug\netcoreapp3.1\Cripto Ceiferrea.exe
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\bin\Debug\netcoreapp3.1\Cripto Ceiferrea.deps.json
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\bin\Debug\netcoreapp3.1\Cripto Ceiferrea.runtimeconfig.json
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\bin\Debug\netcoreapp3.1\Cripto Ceiferrea.runtimeconfig.dev.json
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\bin\Debug\netcoreapp3.1\Cripto Ceiferrea.dll
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\bin\Debug\netcoreapp3.1\Cripto Ceiferrea.pdb
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.csprojAssemblyReference.cache
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.AssemblyInfoInputs.cache
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.AssemblyInfo.cs
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.csproj.CoreCompileInputs.cache
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.dll
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.pdb
+C:\Users\rapma\OneDrive\Área de Trabalho\Codes\Consoles\Cripto Ceiferrea\obj\Debug\netcoreapp3.1\Cripto Ceiferrea.genruntimeconfig.cache
