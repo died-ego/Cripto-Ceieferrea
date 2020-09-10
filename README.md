@@ -1,5 +1,4 @@
 # Cripto-Ceieferrea
-Cifra simples para aplicar os conhecimentos de criptografia básica.
 
 
 Uma cifra simples para aplicar os conhecimentos adquiridos em criptografia.
@@ -13,19 +12,19 @@ D : i
 E : u
 F : ce
 G : o
-H : ca (k)
+H : ca
 I : erre
-J : ips (y)
+J : ips
 K : be
 L : ge
 M : a
 N : ene
 O : efe
-P : dbu (w)
+P : dbu
 Q : ele
 R : aga
 S : ze
-T : esse (s)
+T : esse
 U : de
 V : pe
 W : te
