@@ -1,5 +1,5 @@
 # Cripto-Ceieferrea
-Programa para aplicar os conhecimentos em criptografia básica.
+Cifra simples para aplicar os conhecimentos de criptografia básica.
 
 
 Uma cifra simples para aplicar os conhecimentos adquiridos em criptografia.
